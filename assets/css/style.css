@@ -17,12 +17,11 @@ body {
         "navbar navbar"
         "sidebar productos"
         "footer footer";
-    grid-template-columns:
-        220px
-         1fr;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
     min-height: 100vh;
-    width: 100%;
-    overflow-x: auto;
+    gap: 10px;
+
 }
 
 .navbar {
