@@ -9,6 +9,10 @@ En este desafio 2 aplicamos los siguientes:
 ## Link acceso a codigo fuentes:
 - https://github.com/vn-vrgs/ecommerce.git
 
+## Link deploy
+- https://vn-vrgs.github.io/ecommerce/
+  
+
 
 
 
